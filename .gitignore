@@ -1,0 +1,32 @@
+# Compiled Sources
+###################
+*.o
+*.map
+*.hex
+*.dis
+*.exe
+
+# Packages 
+############
+
+# Windows Thumbnail
+######################
+Thumbs.db
+thumbs.db
+
+# Logs and Databases
+######################
+*.log
+
+# VIM Swap Files
+######################
+*.swp
+
+# Python cache files
+######################
+__pycache__/
+
+# Customized Makefile/project overrides
+######################
+GNUmakefile
+user.props
